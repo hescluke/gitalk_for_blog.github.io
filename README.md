@@ -1,1 +1,1 @@
-# gitalk_for_blog
+# gitalk_for_blog.github.io
